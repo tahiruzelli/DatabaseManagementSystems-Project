@@ -1,0 +1,21 @@
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\bin\Debug\2.1vtys.exe.config
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\bin\Debug\2.1vtys.exe
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\bin\Debug\2.1vtys.pdb
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.csprojAssemblyReference.cache
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\_2._1vtys.Properties.Resources.resources
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.csproj.GenerateResource.cache
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.csproj.CoreCompileInputs.cache
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.exe
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.pdb
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\_2._1vtys.Form1.resources
+C:\Users\tahir\source\repos\2.1vtys\2.1vtys\obj\Debug\_2._1vtys.AnaEkran.resources
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.exe
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.pdb
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\bin\Debug\2.1vtys.exe.config
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\bin\Debug\2.1vtys.exe
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\bin\Debug\2.1vtys.pdb
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.csprojAssemblyReference.cache
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\_2._1vtys.AnaEkran.resources
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\_2._1vtys.Form1.resources
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\_2._1vtys.Properties.Resources.resources
+C:\Users\Eren Değirmenci\source\repos\2.1vtys\2.1vtys\obj\Debug\2.1vtys.csproj.GenerateResource.cache
